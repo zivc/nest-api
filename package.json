@@ -1,0 +1,22 @@
+{
+  "name": "nest-api",
+  "version": "0.0.1",
+  "description": "Basic node-nest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zivc/nest-api.git"
+  },
+  "author": "Ash Taylor (a@zi.vc)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zivc/nest-api/issues"
+  },
+  "homepage": "https://github.com/zivc/nest-api#readme",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}
